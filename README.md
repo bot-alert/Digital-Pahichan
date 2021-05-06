@@ -1,6 +1,8 @@
 # Digital Pahichan
 ## An era for digital Society
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/bot-alert/Digital-Pahichan)
+[![Build Status](https://cdn.rawgit.com/samael500/coverage-badge/master/media/97.svg)](https://github.com/bot-alert/Digital-Pahichan)
+
 
 This is an android application made with Android Studio and Java is powering this application as its programming language.This application is made with the thought of making digital government more  accessible and easy.
 
