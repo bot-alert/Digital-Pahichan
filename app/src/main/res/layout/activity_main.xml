@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context=".MainActivity">
+    <TextView
+        android:layout_marginTop="5dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/purple_500"
+        android:textSize="20dp"
+        android:fontFamily="sans-serif-condensed-medium"
+        android:layout_gravity="center"
+        android:text="Digital  Pahichan"
+        />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="250dp"
+        android:src="@mipmap/phonepage"
+        >
+    </ImageView>
+
+    <TextView
+        android:layout_marginTop="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/purple_500"
+        android:textSize="14dp"
+        android:layout_gravity="center"
+        android:text="You'll recive 6 digit code to verify next"
+
+        />
+
+<LinearLayout
+    android:layout_gravity="center"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textColor="@color/black"
+        android:textSize="24dp"
+        android:text="+977-"/>
+    <EditText
+        android:textSize="24dp"
+        android:maxLength="10"
+        android:id="@+id/phoneNumber"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="6"
+        android:hint="@string/hint"
+        android:inputType="phone"
+        android:textColor="@color/black"
+        android:textColorHint="@color/purple_700"
+        />
+</LinearLayout>
+
+    <ProgressBar
+        android:visibility="gone"
+        android:id="@+id/progressBarGetOtp"
+        android:layout_gravity="center"
+        android:indeterminateTint="@color/purple_500"
+        android:layout_width="wrap_content"
+        android:layout_height="75dp" />
+    <Button
+        android:layout_marginTop="20dp"
+        android:background="@drawable/rounded_rectangele"
+        android:id="@+id/getOtp"
+        android:layout_width="wrap_content"
+        android:layout_gravity="center"
+        android:layout_height="wrap_content"
+        android:textColor="@color/white"
+        android:text="GET OTP"
+        />
+    <ImageView
+        android:layout_gravity="bottom"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@mipmap/road"/>
+
+
+
+</LinearLayout>

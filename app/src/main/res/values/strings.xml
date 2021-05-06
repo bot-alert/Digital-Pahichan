@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Digital Pahichan</string>
+    <string name="hint">
+        <font size="12">
+        Enter Phone Number
+    </font>
+    </string>
+</resources>
