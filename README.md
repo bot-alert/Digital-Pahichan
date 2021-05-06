@@ -13,6 +13,45 @@ This is an android application made with Android Studio and Java is powering thi
 - Can call for ambulance in case of medical help
 - Intreagated with many e-government app
 
+## Preview of application
+![alt text](https://raw.githubusercontent.com/bot-alert/Digital-Pahichan/master/Images%20for%20readme/interface.jpg)
+
+## Preview of API data
+```{
+  "users": [
+    {
+      "phone": "+9779860103347",
+      "name": "Ashish Khatiwada",
+      "Gender": "Male",
+      "Temporary_Address": "New Baneshwor,Kathmandu",
+      "Permanent_Address": "Mechinagar,Jhapa",
+      "Father’s Name": "Omparkarsh Khatiwada",
+      "Mother’s Name": "Menuka Sharma Neupane",
+      "Grandfather’s Name": "Shivaparsard Khatiwada",
+      "Married Status": "Unmarried",
+      "Education Level": "Intermediate",
+      "Occupation": "Student",
+      "Citizenship no": "04-01-73-10504",
+      "Blood Group": "A-"
+    },
+    {
+      "phone": "+9779864561215",
+      "Name": "Nabin Shrestha",
+      "Gender": "Male",
+      "Temporary_Address": "New Baneshwor,Kathmandu",
+      "Permanent_Address": "Mechinagar,Jhapa",
+      "Father’s Name": "Shyam Kumar Shrestha",
+      "Mother’s Name": "Chameli Shrestha",
+      "Grandfather’s Name": "Chhetra Prasad Shrestha",
+      "Married Status": "Unmarried",
+      "Education Level": "Intermediate",
+      "Occupation": "Student",
+      "Citizenship no": "04-01-73-10504",
+      "Blood Group": "A+"
+    }
+  ]
+}
+```
 
 ## How this works
 
