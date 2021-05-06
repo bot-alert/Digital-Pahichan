@@ -57,16 +57,6 @@ This is an android application made with Android Studio and Java is powering thi
 
 ![alt text](https://raw.githubusercontent.com/bot-alert/Digital-Pahichan/master/Images%20for%20readme/Capture.PNG)
 
-## Tech Used
-
-Digital Pahichan uses a number of technologies to work properly:
-
-- Java 
-- Android studio
-- Firebase
-- XML
-- Phone Auth
-
 
 > Note: Still under development feel free to contribute
 
