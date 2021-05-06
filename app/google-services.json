@@ -1,1 +1,47 @@
-
+{
+  "project_info": {
+    "project_number": "1080909330563",
+    "project_id": "digital-paichan",
+    "storage_bucket": "digital-paichan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080909330563:android:3a2b9ff59285475c2e83b6",
+        "android_client_info": {
+          "package_name": "com.example.digitalpahichan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080909330563-j3i2t1vvrc8tshe9s3k7cc7stqa7mf4m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.digitalpahichan",
+            "certificate_hash": "ca8ea5d5d59635c3b99e00126f3f73cb05d99e27"
+          }
+        },
+        {
+          "client_id": "1080909330563-ivvo99l3fl4dp81r8qq7jiqu4hqsc13v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARHbuJCmBXNxw6TY39TLrA7WNEdXF3jzI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1080909330563-ivvo99l3fl4dp81r8qq7jiqu4hqsc13v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
