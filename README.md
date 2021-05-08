@@ -33,7 +33,7 @@ This is an android application made with Android Studio and Java is powering thi
       "Married Status": "Unmarried",
       "Education Level": "Intermediate",
       "Occupation": "Student",
-      "Citizenship no": "04-01-73-10504",
+      "Citizenship no": "234234234234",
       "Blood Group": "A-"
     },
     {
@@ -48,7 +48,7 @@ This is an android application made with Android Studio and Java is powering thi
       "Married Status": "Unmarried",
       "Education Level": "Intermediate",
       "Occupation": "Student",
-      "Citizenship no": "04-01-73-10504",
+      "Citizenship no": "42342342342",
       "Blood Group": "A+"
     }
   ]
